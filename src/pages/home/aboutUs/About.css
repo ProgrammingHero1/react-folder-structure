@@ -1,0 +1,22 @@
+.about-img-1{
+    border-top-right-radius: 10%;
+    width: 80%;
+    height:80%;
+}
+.section-2 h1{
+    color: #331a15;
+    font-size: 4em;
+    /* font-family: 'Rancho', cursive; */
+    text-shadow:  0px 0px 5px #000;
+}
+.about{
+    position: relative;
+}
+.about-img-2{
+    position: absolute;
+    padding: 15% 15% 3% 15%;
+    width: 80%;
+    height: 75%;
+    top: 17%;
+    left: 20%;
+}
